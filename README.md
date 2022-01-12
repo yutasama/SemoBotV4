@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/semoandroidwa">Mr_SEMO</a> to mak
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@semoandroidwa/FOX-QR?v=1)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/semoandroidwa/SemoBotV4) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/semoandroidwa/SeSemo
  
 ### The Hard Method
 ```js
